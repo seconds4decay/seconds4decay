@@ -1,7 +1,5 @@
 # About Me
 
-Olá!<br><br>Prazer em conhecê-lo! Sou Lucas Ferreira, nascido e criado no Brasil e cursando minha graduação em Ciência da Computação, a caminho de me tornar Engenheiro de Software!
-
 Hello!<br><br>Nice to meet you! I'm Lucas Ferreira, born and raised in Brazil and pursuing my Computer Science degree, on my way to be a Software Engineer! 
 
 ## Socials
