@@ -2,6 +2,8 @@
 
 Hello!<br><br>Nice to meet you! I'm Lucas Ferreira, born and raised in Brazil and pursuing my Computer Science degree, on my way to be a Software Engineer! 
 
+I currently study at CESAR School at Recife, PE. 
+
 ## Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lfta@cesar.school)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lfta)
