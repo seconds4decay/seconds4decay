@@ -1,8 +1,9 @@
 # About Me
 
-Hello!<br><br>Nice to meet you! I'm Lucas Ferreira, born and raised in Brazil and pursuing my Computer Science degree, on my way to be a Software Engineer! 
+Sou um Desenvolvedor Front-end com experiência em construir interfaces alinhadas com designs no Figma, capaz de realizar deploy de aplicações na web e bastante comunicativo e atencioso com meus projetos. Além disso, sou fluente em inglês e já desenvolvi projetos dedicados a resolver problemas reais. 
 
-I currently study at CESAR School at Recife, PE. 
+I am a Front-end Developer with experience in building interfaces aligned with designs from Figma, capable of deploying web applications, and highly communicative and dedicated to my projects. Also, I am fluent in English and have developed projects dedicated to solving real problems.
+
 
 ## Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lfta@cesar.school)
