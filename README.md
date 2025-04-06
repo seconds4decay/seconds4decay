@@ -10,7 +10,7 @@ I am a Fullstack Developer with experience in building interfaces aligned with d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lfta)
 
 # Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,next,express,ts,js,java,django,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,express,ts,js,java,django,python,docker,mysql)](https://skillicons.dev)
 
 # GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=seconds4decay&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
