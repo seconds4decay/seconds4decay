@@ -1,8 +1,8 @@
 # About Me
 
-Sou um Desenvolvedor Front-end com experiência em construir interfaces alinhadas com designs no Figma, capaz de realizar deploy de aplicações na web e bastante comunicativo e atencioso com meus projetos. Além disso, sou fluente em inglês e já desenvolvi projetos dedicados a resolver problemas reais. 
+Sou um Desenvolvedor Fullstack com experiência em construir interfaces alinhadas com designs no Figma, capaz de realizar deploy de aplicações na web e bastante comunicativo e atencioso com meus projetos. Além disso, sou fluente em inglês e já desenvolvi projetos dedicados a resolver problemas reais. 
 
-I am a Front-end Developer with experience in building interfaces aligned with designs from Figma, capable of deploying web applications, and highly communicative and dedicated to my projects. Also, I am fluent in English and have developed projects dedicated to solving real problems.
+I am a Fullstack Developer with experience in building interfaces aligned with designs from Figma, capable of deploying web applications, and highly communicative and dedicated to my projects. Also, I am fluent in English and have developed projects dedicated to solving real problems.
 
 
 ## Socials
